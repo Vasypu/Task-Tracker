@@ -1,4 +1,4 @@
-package com.task;
+package task;
 
 public class Model {
   public static void main(String[] args) {
